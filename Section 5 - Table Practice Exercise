@@ -1,0 +1,13 @@
+<form>
+   <pr>
+    <label for="username"> Username</label>
+    <input type="text" placeholder="username" id="username">
+   </pr>
+   <pr>
+    <label for ="password">Password</label>
+    <input type="password" placeholder="password" id="password">
+    </pr>
+    <pr>
+        <button>Register</button>
+    </pr>
+    </form>
