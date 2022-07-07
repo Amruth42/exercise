@@ -1,3 +1,4 @@
+selector :
 li{
     color: blue;
 }
@@ -7,4 +8,14 @@ li{
 #clear{
     background: red;
     color :white;
+}
+
+chess box.css:
+
+div :nth-of-type(odd){
+    background-color: red;
+    
+}
+div :nth-of-type(even){
+    background-color: black;
 }
