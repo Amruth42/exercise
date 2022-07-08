@@ -1,0 +1,21 @@
+function multiply(n1,n2)
+{
+    return (n1*n2);
+}
+
+
+function lastElement(arg){
+    if(arg.length===0)
+    return null
+    return arg[arg.length-1]
+}
+
+// DEFINE YOUR FUNCTION BELOW:
+function sumArray(arr)
+{
+    let sum=0;
+   for(let i=0;i<arr.length;i++)
+   sum+=arr[i];
+   console.log(sum);
+}
+
